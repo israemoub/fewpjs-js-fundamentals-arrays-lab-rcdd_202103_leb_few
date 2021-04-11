@@ -7,8 +7,8 @@ removeFirst =["Milo", "Otis", "Garfield"];
 
 append.push("Odie");
 
-prepend.unshift(doggy);
+prepend.unshift("doggy");
 
-removeLast.pop();
+removeLast.pop("Garfield");
 
-removeFirst.shift();
+removeFirst.shift("Milo");
