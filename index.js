@@ -1,5 +1,4 @@
 // Write your solution here!
 
-const pets = ["append", "prepend", "removeLast", "removeFirst"]
-
+const append= "Milo"
 append.push("Odie");
